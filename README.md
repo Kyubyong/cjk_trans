@@ -10,13 +10,13 @@ Overall, each of their performance may not so impressive, but you can keep train
 
 ## Requirements
 * python >=3.6
-* pytoch >=1.0
+* pytorch >=1.0
 * [Fairseq](https://github.com/pytorch/fairseq)
 
 
 ## Data
 |Language Pair | # Training sents (public + private) | # Test sents (private) |
-|--|--|--|--|
+|--|--|--|
 |ko-en | 1,845,445 (1,391,190 + 454,255) | 1,050 | 
 |ko-zh | 672,450 (485,843 + 186,607) | 1,417 |
 | ko-ja | 2,788,003 (302,063 + 2,485,940) | 1,174 |
